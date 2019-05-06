@@ -1,0 +1,7 @@
+{
+  "name": "app",
+  "private": false,
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
